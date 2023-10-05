@@ -122,7 +122,7 @@ export default function MyComponent() {
           </dialog>
         </div>
         <h1 className="text-4xl font-semibold">
-          Your Personal Coding Assistant
+          CodeCraft - Your LeetCode Companion
         </h1>
         <div className="text-xl text-gray-400 mt-2">
           Instantly improve your code with ChatGPT&apos;s personal programming
