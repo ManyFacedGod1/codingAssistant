@@ -1,10 +1,8 @@
 # CodeCraft - Your LeetCode Companion
 
-## Overview
+CodeCraft is a web-based tool designed to help you with your LeetCode and coding questions. It provides code validation, error identification, and suggestions for code improvement. Whether you're a beginner or an experienced coder, this assistant can help you enhance your coding skills.
 
 [Check it out here](https://coding-assistant-iota.vercel.app/)
-
-CodeCraft is a web-based tool designed to help you with your LeetCode and coding questions. It provides code validation, error identification, and suggestions for code improvement. Whether you're a beginner or an experienced coder, this assistant can help you enhance your coding skills.
 
 ## Features
 
