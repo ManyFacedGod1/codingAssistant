@@ -4,6 +4,8 @@ CodeCraft is a web-based tool designed to help you with your LeetCode and coding
 
 [Check it out here](https://coding-assistant-iota.vercel.app/)
 
+![codecraftdemod2](https://github.com/thekshunya/codingAssistant/assets/69801148/94259db7-2647-445f-bf2b-b218effd0da8)
+
 ## Features
 
 - Code Validation: Validate your code solutions for correctness and performance.
